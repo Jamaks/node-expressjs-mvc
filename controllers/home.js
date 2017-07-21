@@ -1,4 +1,4 @@
-import { Controller } from "../Controller";
+import { Controller } from "../shared/Controller";
 
 export default class HomeController extends Controller {
     constructor(basePath) {
